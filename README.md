@@ -97,8 +97,10 @@ No external internet connection is required.
 
 ---
 
-## 👤 Author
+## 👤 Author's: 
 
-**Moinak Goswami**  
-B.Tech, Computer Science and Engineering  
-Indian Institute of Technology, Ropar
+Moinak Goswami 2024CSB1225
+Sarthak Nitin Keshaowar 2024CSB1215
+Harshit Sahu 2024CSB1203
+Palak Gulati 2024CSB1137
+Garima Kamra 2024CSB1115
